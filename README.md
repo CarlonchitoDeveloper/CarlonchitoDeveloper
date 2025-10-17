@@ -5,7 +5,7 @@
 Soy Ingeniero Informático y Desarrollador Full Stack con más de 2 años de experiencia en desarrollo de software.
 Actualmente trabajo como desarrollador en una empresa, donde participo en proyectos reales orientados a optimizar procesos y crear soluciones digitales eficientes.
 
-Además, comparto mis conocimientos y experiencias en TikTok, mostrando mis proyectos y explicando paso a paso cómo los desarrollo, con el objetivo de ayudar a otros a aprender y crecer en el mundo de la programación.
+Además, comparto mis conocimientos y experiencias en TikTok, mostrando mis proyectos y explicando cómo los desarrollo, con el objetivo de ayudar a otros a aprender y crecer en el mundo de la programación.
 
 🚀 Apasionado por el código, el aprendizaje constante y la colaboración en comunidad.
 
